@@ -1,0 +1,8 @@
+{
+    "name": "sysmanager-service",
+    "version": "1.0.281",
+    "private": false,
+    "environment": "production",
+    "build_id": 573,
+    "allow_public_access": true
+}
